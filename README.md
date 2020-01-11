@@ -9,14 +9,14 @@ Richard Evans and Jason DeBacker have built overlapping generations models for f
 
 Evans and DeBacker have provided the following four textbook chapters from Evans and DeBacker (2020) as an introduction to building and solving overlapping generations models for policy analysis. These chapters are all available in this repository in the `Chapters` folder. They are also linked below.
 
-| Chapter           | Title        |
+| Chapter           | Description  |
 |-------------------|--------------|
-| Table of Contents | Contents     |
-| Ch. 2             |              |
-| Ch. 3             |              |
-| Ch. 4             |              |
-| Ch. 8             |              |
-| Bibliography      | Bibliography |
+| [Table of Contents](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_toc.pdf) | Contents     |
+| [Ch. 2](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch02.pdf) | Simple 3-period lived agents model |
+| [Ch. 3](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch03.pdf) | Simple S-period-lived agents model |
+| [Ch. 4](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch04.pdf) | S-period-lived agents with endogenous labor supply |
+| [Ch. 8](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch08.pdf) | Demographics and productivity growth |
+| [Bibliography](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_bib.pdf) | Bibliography |
 
 
 ## 2. References
