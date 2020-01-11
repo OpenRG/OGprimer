@@ -41,6 +41,3 @@ We recommend downloading the Anaconda distribution of Python provided by [Anacon
 ## 3. References
 * Evans, Richard W. and Jason DeBacker, "OG-USA: Documentation for the Large-scale Dynamic General Equilibrium Overlapping Generations Model for U.S. Policy Analysis", (Nov. 2019).
 * Evans, Richard W. and Jason DeBacker, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2020).
-
-
-
