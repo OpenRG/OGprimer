@@ -11,14 +11,14 @@ Evans and DeBacker have provided the following four textbook chapters from Evans
 
 | Chapter           | Description  |
 |-------------------|--------------|
-| [Table of Contents](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_toc.pdf) | Contents     |
-| [Ch. 2](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch02.pdf) | Simple 3-period lived agents model |
-| [Ch. 3](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch03.pdf) | Simple S-period-lived agents model |
-| [Ch. 4](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch04.pdf) | S-period-lived agents with endogenous labor supply |
-| [Ch. 8](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_ch08.pdf) | Demographics and productivity growth |
-| [Bibliography](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_bib.pdf) | Bibliography |
+| [Table of Contents](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_toc.pdf) | Contents     |
+| [Ch. 2](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_ch02.pdf) | Simple 3-period lived agents model |
+| [Ch. 3](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_ch03.pdf) | Simple S-period-lived agents model |
+| [Ch. 4](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_ch04.pdf) | S-period-lived agents with endogenous labor supply |
+| [Ch. 8](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_ch08.pdf) | Demographics and productivity growth |
+| [Bibliography](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_bib.pdf) | Bibliography |
 
-There are many modeling structures that can be included in an overlapping generations model, as is shown in the [Table of Contents](https://github.com/rickecon/OGprimer/blob/ignore/Chapters/OGtext_toc.pdf) to Evans and DeBacker (2020). The full set of chapters are available to OpenRG training clients, and the book should be available for purchase in 2021.
+There are many modeling structures that can be included in an overlapping generations model, as is shown in the [Table of Contents](https://github.com/OpenRG/OGprimer/blob/master/Chapters/OGtext_toc.pdf) to Evans and DeBacker (2020). The full set of chapters are available to OpenRG training clients, and the book should be available for purchase in 2021.
 
 Another great resource that describes an overlapping generations model with most of the structures described in the Evans and DeBacker (2020) textbook is the [documentation](https://github.com/PSLmodels/OG-USA/blob/master/docs/OGUSAdoc.pdf) for [`OG-USA`](https://github.com/PSLmodels/OG-USA), the open source model of U.S. fiscal policy.
 
@@ -39,5 +39,5 @@ We recommend downloading the Anaconda distribution of Python provided by [Anacon
 
 
 ## 3. References
-* Evans, Richard W. and Jason DeBacker, "OG-USA: Documentation for the Large-scale Dynamic General Equilibrium Overlapping Generations Model for U.S. Policy Analysis", (Nov. 2019).
+* Evans, Richard W. and Jason DeBacker, "[OG-USA: Documentation for the Large-scale Dynamic General Equilibrium Overlapping Generations Model for U.S. Policy Analysis](https://github.com/PSLmodels/OG-USA/blob/master/docs/OGUSAdoc.pdf)", (Nov. 2019).
 * Evans, Richard W. and Jason DeBacker, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2020).
